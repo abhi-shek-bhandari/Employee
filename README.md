@@ -39,6 +39,10 @@ Sixth, Run this command to build and serve the Angular app.
 
 Seventh, Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
+![Alt text](image-1.png)
+
+![Alt text](image-2.png)
+
 # API Endpoints
 
 - Create Employee :- http://localhost:5000/add - Post Request
